@@ -179,8 +179,8 @@ I'm actively looking for **Data Analyst** and **Business Intelligence** opportun
 
 - 📧 **Email:** [shivamkthakur99@gmail.com](mailto:shivamkthakur99@gmail.com)
 - 📱 **Phone:** +91-96448 50082
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com)
-- 🐙 **GitHub:** [View my work](https://github.com)
+- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/shivam-kumar-thakur99)
+- 🐙 **GitHub:** [View my work]([https://github.com](https://github.com/shivamthakur99))
 - 📍 **Location:** Bengaluru, Karnataka, India
 
 ---
