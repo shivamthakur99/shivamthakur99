@@ -164,15 +164,6 @@ Despite operating in the field, this role was data-driven at its core:
 ✅  Production-ready automation integrating web forms, conditional logic & Slack notifications
 ```
 
----
-
-## 📊 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 📬 Get in Touch
 
 I'm actively looking for **Data Analyst** and **Business Intelligence** opportunities. If you're working on interesting data problems or want to collaborate, let's connect!
